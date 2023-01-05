@@ -76,23 +76,12 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/harrisonmar"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "https://www.linkedin.com/in/harrison-mar-a6507318b/?originalSubdomain=ca"
+
 
 [taxonomies]
   category = "categories"
@@ -115,11 +104,6 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
     
   # Configure footer  
   [[menu.footer]]
